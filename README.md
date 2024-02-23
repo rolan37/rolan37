@@ -4,7 +4,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/rolangaspar0712/"><img height="30" src=""></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/rolangaspar0712/"><img height="30" src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/rolangp7"><img height="30" src=""></a>&nbsp;&nbsp;
 <a href="https://rolan37.github.io"><img height="30" src=""></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/rolanpereira7"><img height="30" src=""></a>&nbsp;&nbsp;
