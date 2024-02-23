@@ -58,21 +58,17 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <img src="" alt="arduino" style="vertical-align:top; margin:4px">
-  <img src="" alt="rpi" style="vertical-align:top; margin:4px">    
-  <img src="" alt="espressif" style="vertical-align:top; margin:4px">
-  <img src="" alt="node" style="vertical-align:top; margin:4px">
-  <img src="" alt="react" style="vertical-align:top; margin:4px">
-  <img src="" alt="js" style="vertical-align:top; margin:4px">
-  <img src="" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="" alt="blogger" style="vertical-align:top; margin:4px">
-  <img src="" alt="iot" style="vertical-align:top; margin:4px">
-  <img src="" alt="ds" style="vertical-align:top; margin:4px">
-  <img src="" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="" alt="linux" style="vertical-align:top; margin:4px">
-  <img src="" alt="" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/arduino.png " alt="arduino" style="vertical-align:top; margin:4px; width:75px;">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/rpi1.png" alt="rpi" style="vertical-align:top; margin:4px;margin-top:15px; width:75px;">    
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/espressif.png" alt="espressif" style="vertical-align:top; margin:4px; width:75px;">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/node.png" alt="node" style="vertical-align:top; margin:4px; width:75px;">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/react.png" alt="react" style="vertical-align:top; margin:4px; width:75px;">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/js.png" alt="js" style="vertical-align:top; margin:4px; width:75px;">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/blog.png" alt="blogger" style="vertical-align:top; margin:4px; margin-top:18px; width:48px;">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/iot.png" alt="iot" style="vertical-align:top; margin:4px;margin-top:15px; width:50px;">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/html.png" alt="html" style="vertical-align:top; margin:4px; width:75px;">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/css.png" alt="css" style="vertical-align:top; margin:4px; width:75px;">
+  
 </p>
 
 <!--
@@ -86,3 +82,14 @@
 </p>
 -->
 
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Drink Water!</i>⚡️</h1>
