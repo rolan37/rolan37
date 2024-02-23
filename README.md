@@ -5,10 +5,10 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/rolangaspar0712/"><img height="30" src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/rolangp7"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="https://rolan37.github.io"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/rolanpereira7"><img height="30" src=""></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/rolan37"><img height="30" src=""></a>&nbsp;&nbsp;
+<a href="https://rolan37.github.io"><img height="30" src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/github-mark-white.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/rolanpereira7"><img height="30" src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/facebook.png"></a>&nbsp;&nbsp;
+ <a href="https://www.youtube.com/@ElectronicsSimplified7"><img height="30" src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/youtube.png"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/rolan.pereira7"><img height="30" src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/linkedin.png"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
@@ -24,8 +24,10 @@
 
 <p align="center">
   <img src="equation.png">
-  <h3> I'm x years old Full-Stack developer from India.</h3>
+  <h3> I'm x years old IoT developer and STEM Education from India. I work in Maldives. </h3>
 </p>
+
+<p>|||  I openly contribute to STEM education for a better Future. If you want to see my content. Please visit my website : <a href="www.electronicssimplified.in ">Electronics Simplified</a> |||</p>
 
 - 🥀 Learning System Design & Teaching how to Simplify
   <br><i>with Electronics, RasperryPi, Arduinom Python, JavaScript, React and many others.</i>
