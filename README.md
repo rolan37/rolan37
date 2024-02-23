@@ -23,7 +23,7 @@
 <br />
 
 <p align="center">
-  <img src="equation.png">
+  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/equation.png">
   <h3> I'm x years old IoT developer and STEM Education from India. I work in Maldives. </h3>
 </p>
 
