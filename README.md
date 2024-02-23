@@ -12,7 +12,7 @@
  </p>
 
 <div align="center">
-<h3> 🙎 Rolan Pereira | 💻 IoT Developer | STEM Educator | Maldives , India</h3>
+<h3> 🙎 Rolan Pereira | 💻 IoT and Developer | Hardware Prototyping |  | Maldives , India</h3>
 </div>
 
  <h5 align="center">
@@ -24,26 +24,26 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/equation.png">
-  <h3> I'm x years old IoT developer and STEM Education from India. I work in Maldives. </h3>
+  <h3> Find x to know my age. STEM educator with a vision.</h3>
 </p>
 
-<p>|||  I openly contribute to STEM education for a better Future. If you want to see my content. Please visit my website : <a href="www.electronicssimplified.in ">Electronics Simplified</a> |||</p>
+<p>|||  I contribute to STEM education for a better Future. If you want to see my content. Please visit my website : <a href="www.electronicssimplified.in ">Electronics Simplified</a> |||</p>
 
 - 🥀 Learning System Design & Teaching how to Simplify
   <br><i>with Electronics, RasperryPi, Arduinom Python, JavaScript, React and many others.</i>
 
 - Making Good Use of Silicon
 
-- Living 👽.
+- Living like an 👽.
 
-- I do Development in a bit of everything
+- I do Development in a bit of everything.
 
 - All About living a simple life and eating good food🌯.
 
-- 💬 Connect? lets get social (rolanpereira3@gmail.com)
+- 💬 Connect? lets get social (rolanpereira3@gmail.com) . Thats how social i am !
 
  <p align="center">
-  <h4> IoT | Competitive Programming </h4>
+  <h4> IoT | Competitive Programming | Designing | Music </h4>
    </p>
 
 <!--  -->
@@ -57,7 +57,7 @@
 
 <br />
 
-### - Languages and Tools...
+### - Languages and Tools ()
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/arduino.png " alt="arduino" style="vertical-align:top; margin:4px; width:75px;">
@@ -73,13 +73,15 @@
   
 </p>
 
+<p>Buy me a coffee for motivation.</p>
+
 <!--
 ### - Blogs 🌱
 -->
 <!--
 <p align="center">
   <a href="https://dev.to/rolan">
-    <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/blogs/devto.svg">
+    <img src="https://raw.githubusercontent.com/rolan37/rolan37/master/svg/blogs/devto.svg">
   </a>
 </p>
 -->
