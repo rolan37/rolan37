@@ -1,61 +1,54 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://www.electronicssimplified.in/">Rolan Pereira</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <h1>Hi there, I'm <a href="https://www.electronicssimplified.in/">Rolan Pereira</a>  
+   </h1>   
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/rolangaspar0712/"><img height="30" src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bitrolan"><img height="30" src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/rolan"><img height="30" src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/rolan"><img height="30" src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/rolangaspar0712/"><img height="30" src=""></a>&nbsp;&nbsp;
+<a href="https://twitter.com/rolangp7"><img height="30" src=""></a>&nbsp;&nbsp;
+<a href="https://rolan37.github.io"><img height="30" src=""></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/rolanpereira7"><img height="30" src=""></a>&nbsp;&nbsp;
+ <a href="https://www.coffee.com/rolan37"><img height="30" src=""></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Rolan Pereira | 💻 IoT Develpoer | STEM | Maldives , India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> 🙎 Rolan Pereira | 💻 IoT Developer | STEM Educator | Maldives , India</h3>
 </div>
 
-<p align="center">
-   <a href="https://twitter.com/_rolan_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_rolan_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_rolan_joshi"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayrolant/mayrolant"> <img alt="rolan joshi github" src="https://badges.pufler.dev/visits/mayrolant/mayrolant"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayrolant.mayrolant"> <img alt="rolan joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayrolant.mayrolant"> </a>
- </p>
- 
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>⚡️I don’t trust people who dont use promises.⚡️</i>
   </h5>
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
 <p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
+  <img src="equation.png">
+  <h3> I'm x years old Full-Stack developer from India.</h3>
 </p>
 
-- 🥀 Learning Swift & Objective_C
+- 🥀 Learning System Design & Teaching how to Simplify
+  <br><i>with Electronics, RasperryPi, Arduinom Python, JavaScript, React and many others.</i>
 
-- <i>with Javascript, Typescript, React and 69 others.</i>
-- 🔭 SpaceX FanBoi, die for space😼
+- Making Good Use of Silicon
 
-- 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+- Living 👽.
 
-- I do fullstack and a bit of everything :heart:
+- I do Development in a bit of everything
 
-- All About living life at its best.
+- All About living a simple life and eating good food🌯.
 
-- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/social/twitter.svg" >](https://twitter.com/_rolan_joshi)
+- 💬 Connect? lets get social (rolanpereira3@gmail.com)
 
  <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
+  <h4> IoT | Competitive Programming </h4>
    </p>
 
 <!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayrolant&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=rolan37&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
@@ -65,21 +58,21 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bitrolan/8bitrolan/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="" alt="arduino" style="vertical-align:top; margin:4px">
+  <img src="" alt="rpi" style="vertical-align:top; margin:4px">    
+  <img src="" alt="espressif" style="vertical-align:top; margin:4px">
+  <img src="" alt="node" style="vertical-align:top; margin:4px">
+  <img src="" alt="react" style="vertical-align:top; margin:4px">
+  <img src="" alt="js" style="vertical-align:top; margin:4px">
+  <img src="" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="" alt="blogger" style="vertical-align:top; margin:4px">
+  <img src="" alt="iot" style="vertical-align:top; margin:4px">
+  <img src="" alt="ds" style="vertical-align:top; margin:4px">
+  <img src="" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="" alt="linux" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
 </p>
 
 <!--
@@ -93,27 +86,3 @@
 </p>
 -->
 
-### - What i do
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayrolant/mayrolant/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
