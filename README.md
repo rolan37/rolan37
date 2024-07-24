@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://www.electronicssimplified.in/">Rolan Pereira </a>  
+   <h1>Hi there, I'm <a href="https://www.electronicssimplified.in/">Rolan Pereira (Bob)</a>  
    </h1>   
 </div>
 
