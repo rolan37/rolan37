@@ -23,7 +23,7 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rolan37/rolan37/main/images/equation.png">
+  
   <h3> Find x to know my age. STEM educator with a vision.</h3>
 </p>
 
