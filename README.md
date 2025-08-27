@@ -24,7 +24,7 @@
 
 <p align="center">
   
-  <h3> Find x to know my age. STEM educator with a vision.</h3>
+  <h3> STEM educator with a vision.</h3>
 </p>
 
 <p>|||  I contribute to STEM education for a better Future. If you want to see my content. Please visit my website : <a href="www.electronicssimplified.in ">Electronics Simplified</a> |||</p>
